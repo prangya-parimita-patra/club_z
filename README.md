@@ -1,8 +1,8 @@
-# ZAIRZA WEBSITE 2020
+# ZAIRZA WEBSite
 
 ![Zairza Github](https://raw.githubusercontent.com/zairza-cetb/zairza-web/main/public/images/Zairzalogo.webp)
 
-<strong>ZAIRZA</strong>, the robo-sof club of CET, a conglomeration of seasoned developers and designers. 
+<strong>ZAIRZA</strong>, the robo-sof club, a conglomeration of seasoned developers and designers. 
 Founded in the year 2005, the club has ever since witnessed a synapse of creativity and evolution.
 
 Hosted in [Here](https://zairza.in). 
@@ -21,11 +21,6 @@ Follow these steps to get the api running using npm
    <strong>Note:</strong><em>If you do not have MongoDB on your own system, you can proceed with the connection string. Please ensure the right access permissions and firewall openings for the VM/server where the MongoDB is hosted.</em>
 2. Clone this repo to your local machine
 
-   ```sh
-   git clone https://github.com/zairza-cetb/zairza-web/
-   cd zairza-web
-   npm install
-   ```
 
 3. Run this command for git hooks setup
 
@@ -85,8 +80,6 @@ Thank you for your interest in contributing to Zairza. Regardless of the size of
 
 If you are new to contributing to open source, please read the Open Source Guides on [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/).
 
-### Ways to Contribute
-If you are ready to start contributing code right away, we have a list of [good first issues](https://github.com/zairza-cetb/zairza-web/issues/labels/good%20first%20issue) that contain issues with a limited scope. 
 
 
 ### Contributing Code
